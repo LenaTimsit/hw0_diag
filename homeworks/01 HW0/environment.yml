@@ -1,6 +1,6 @@
 name: hw0-00660121
 channels:
-  - pytorch salut lena la olus fraiche
+  - pytorch
   - nvidia
   - conda-forge
   - defaults
